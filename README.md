@@ -1,7 +1,8 @@
 # Windows-basic-commands-batchscript
 # Ex08-Windows-basic-commands-batchscript
-NAME: KAAVIYAN.K
-REG NO: 212224240066
+# NAME: KAAVIYAN.K
+
+# REG NO: 212224240066
 
 # AIM:
 To execute Windows basic commands and batch scripting
