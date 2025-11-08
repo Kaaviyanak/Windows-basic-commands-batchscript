@@ -27,56 +27,59 @@ Execute the necessary commands/batch file for the desired output.
 
 Create a directory named "my-folder"
 ### COMMAND AND OUTPUT
+<img width="606" height="223" alt="1 mkdir" src="https://github.com/user-attachments/assets/fa6167c1-7a2c-4948-a998-db49461c017b" />
 
-![alt text](<img/1 mkdir.png>)
 
 Remove the directory "my-folder"
 ### COMMAND AND OUTPUT
+<img width="842" height="371" alt="image" src="https://github.com/user-attachments/assets/6022a352-2b44-4025-81ee-125fcecbc4cc" />
 
-![alt text](<img/2 rmdir.png>)
 
 Create the file Rose.txt
 ### COMMAND AND OUTPUT
 
-![alt text](<img/3 rose.png>)
+<img width="828" height="352" alt="image" src="https://github.com/user-attachments/assets/07059174-4bfb-4a9b-869d-fc0894314753" />
+
 
 Create the file hello.txt using echo and redirection
 ### COMMAND AND OUTPUT
+<img width="960" height="121" alt="image" src="https://github.com/user-attachments/assets/26c6180e-9e85-456a-9ad9-b4d0a4a4fd27" />
 
-![alt text](<img/4 hello.png>)
 
 Copy the file hello.txt into the file hello1.txt
 ### COMMAND AND OUTPUT
+<img width="892" height="143" alt="image" src="https://github.com/user-attachments/assets/6e1c792d-de10-44e5-8b07-4eb1413316e5" />
 
-![alt text](<img/5 hello1.png>)
 
 Remove the file hello1.txt
 ### COMMAND AND OUTPUT
+<img width="782" height="221" alt="image" src="https://github.com/user-attachments/assets/6a585b3d-d308-49c8-b57b-27cb3b58c110" />
 
-![alt text](<img/6 remove.png>)
 
 List out the file hello1.txt in the current directory
 ### COMMAND AND OUTPUT
 
-![alt text](<img/7 list.png>)
+<img width="757" height="1059" alt="image" src="https://github.com/user-attachments/assets/199f45c4-bce4-4b18-8a7a-434206d2d973" />
+
 
 
 List out all the associated file extensions 
 ### COMMAND AND OUTPUT
+<img width="863" height="1106" alt="image" src="https://github.com/user-attachments/assets/f8e57bc6-8d3e-4a30-a643-201d7411b75d" />
 
-![alt text](<img/8 list.png>)
 
 Compare the file hello.txt and rose.txt
 ### COMMAND AND OUTPUT
 
-![alt text](<img/9 rose.png>)
+<img width="826" height="188" alt="image" src="https://github.com/user-attachments/assets/dffc3679-c894-4e70-8800-f459e03a36c3" />
+
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 ### OUTPUT
 
-![alt text](<img/10 bat.png>)
+<img width="697" height="89" alt="image" src="https://github.com/user-attachments/assets/73ebd8cf-6ba8-4ac4-b2e1-df6368ef223b" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -88,15 +91,15 @@ Repeat the process if the user enters Y, and exit with a thank-you message if th
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ### OUTPUT
+<img width="693" height="260" alt="image" src="https://github.com/user-attachments/assets/4b0f04dd-a5fd-4e75-a8c4-2748774d43e3" />
 
-![alt text](<img/11 bat.png>)
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 ### OUTPUT
+<img width="715" height="209" alt="image" src="https://github.com/user-attachments/assets/891ea277-a4bb-40f4-ace5-2dd683c64fc1" />
 
-![alt text](<img/12 bat.png>)
 
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
@@ -108,8 +111,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ### OUTPUT
-
-![alt text](<img/13 bat.png>)
+<img width="696" height="111" alt="image" src="https://github.com/user-attachments/assets/b7b24a1e-7b35-4ff2-a4d7-945de048ff00" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -120,8 +122,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ### OUTPUT
-
-![alt text](<img/14 bat.png>)
+<img width="753" height="442" alt="image" src="https://github.com/user-attachments/assets/4be55db8-f190-4af4-a330-561271f8809b" />
 
 
 # RESULT:
